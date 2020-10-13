@@ -1,2 +1,2 @@
 # vertex.datastructure
-a red and black tree implenmented with C#
+a red and black tree implemented with C#
